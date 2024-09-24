@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/mominfaizan458/AgileProject/_apis/build/status%2FDevopsFaizan.gitapp?branchName=master)](https://dev.azure.com/mominfaizan458/AgileProject/_build/latest?definitionId=6&branchName=master)
